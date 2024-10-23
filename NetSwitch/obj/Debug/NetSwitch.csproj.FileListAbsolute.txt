@@ -1,0 +1,9 @@
+D:\proj\Winfrom\NetSwitch\NetSwitch\bin\Debug\NetSwitch.exe.config
+D:\proj\Winfrom\NetSwitch\NetSwitch\bin\Debug\NetSwitch.exe
+D:\proj\Winfrom\NetSwitch\NetSwitch\bin\Debug\NetSwitch.pdb
+D:\proj\Winfrom\NetSwitch\NetSwitch\obj\Debug\NetSwitch.csproj.AssemblyReference.cache
+D:\proj\Winfrom\NetSwitch\NetSwitch\obj\Debug\NetSwitch.Properties.Resources.resources
+D:\proj\Winfrom\NetSwitch\NetSwitch\obj\Debug\NetSwitch.csproj.GenerateResource.cache
+D:\proj\Winfrom\NetSwitch\NetSwitch\obj\Debug\NetSwitch.csproj.CoreCompileInputs.cache
+D:\proj\Winfrom\NetSwitch\NetSwitch\obj\Debug\NetSwitch.exe
+D:\proj\Winfrom\NetSwitch\NetSwitch\obj\Debug\NetSwitch.pdb

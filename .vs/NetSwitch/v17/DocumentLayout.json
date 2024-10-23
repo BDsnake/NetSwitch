@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\proj\\Winfrom\\NetSwitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|D:\\proj\\Winfrom\\NetSwitch\\netswitch\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|solutionrelative:netswitch\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|D:\\proj\\Winfrom\\NetSwitch\\netswitch\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|solutionrelative:netswitch\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|D:\\proj\\Winfrom\\NetSwitch\\netswitch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|solutionrelative:netswitch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|D:\\proj\\Winfrom\\NetSwitch\\netswitch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|solutionrelative:netswitch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|d:\\proj\\winfrom\\netswitch\\netswitch\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|solutionrelative:netswitch\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|D:\\proj\\Winfrom\\NetSwitch\\netswitch\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|solutionrelative:netswitch\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|D:\\proj\\Winfrom\\NetSwitch\\netswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|solutionrelative:netswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|d:\\proj\\winfrom\\netswitch\\netswitch\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|solutionrelative:netswitch\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|D:\\proj\\Winfrom\\NetSwitch\\netswitch\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC3413C-4E07-4DDC-9DD7-A37DD6FA48C6}|NetSwitch\\NetSwitch.csproj|solutionrelative:netswitch\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "NetSwitch\\Properties\\Settings.settings",
+              "ToolTip": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Properties\\Settings.settings",
+              "RelativeToolTip": "NetSwitch\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-10-23T03:19:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "NetSwitch\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "NetSwitch\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:01:32.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsForm.Designer.cs",
+              "DocumentMoniker": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\SettingsForm.Designer.cs",
+              "RelativeDocumentMoniker": "NetSwitch\\SettingsForm.Designer.cs",
+              "ToolTip": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\SettingsForm.Designer.cs",
+              "RelativeToolTip": "NetSwitch\\SettingsForm.Designer.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAmwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:57:20.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "NetSwitch\\SettingsForm.cs",
+              "ToolTip": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\SettingsForm.cs",
+              "RelativeToolTip": "NetSwitch\\SettingsForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAlwCkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:57:14.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "NetSwitch\\SettingsForm.cs",
+              "ToolTip": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\SettingsForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "NetSwitch\\SettingsForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:57:08.919Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NetSwitch\\Form1.Designer.cs",
+              "ToolTip": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Form1.Designer.cs",
+              "RelativeToolTip": "NetSwitch\\Form1.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:50:27.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Form1.cs",
+              "RelativeDocumentMoniker": "NetSwitch\\Form1.cs",
+              "ToolTip": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Form1.cs",
+              "RelativeToolTip": "NetSwitch\\Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAApwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:50:03.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "NetSwitch\\Program.cs",
+              "ToolTip": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Program.cs",
+              "RelativeToolTip": "NetSwitch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:49:59.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Form1.cs",
+              "RelativeDocumentMoniker": "NetSwitch\\Form1.cs",
+              "ToolTip": "D:\\proj\\Winfrom\\NetSwitch\\NetSwitch\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "NetSwitch\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:49:52.827Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
